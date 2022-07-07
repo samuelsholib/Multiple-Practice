@@ -11,6 +11,7 @@ function useEffectDemo() {
     document.title = `You clicked ${count} times`;
   });
 
+
   return (
     <div>
       <h1>You clicked {count} times</h1>
