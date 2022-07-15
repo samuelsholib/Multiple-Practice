@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="34bfdc51-991c-440b-85e1-feed1286d16e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Biginner/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/samdjava/springsecurityjpa/config/SecurityConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/samdjava/springsecurityjpa/controller/HomeResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biginner/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biginner/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJProjects/src/firstTimeWorkingWithIntellij/HelloIntellij.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntelliJProjects/src/firstTimeWorkingWithIntellij/HelloIntellij.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Modal Practice/modal-practice" beforeDir="false" afterPath="$PROJECT_DIR$/Modal Practice/modal-practice" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Modal Practice/modal-practice/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Modal Practice/modal-practice/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Modal Practice/modal-practice/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Modal Practice/modal-practice/package.json" afterDir="false" />
@@ -24,6 +27,7 @@
       <change beforePath="$PROJECT_DIR$/revaturePractice/my-practice-app/src/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/revaturePractice/my-practice-app/src/reportWebVitals.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/revaturePractice/my-practice-app/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/samdjava/springsecurityjpa/config/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/samdjava/springsecurityjpa/config/SecurityConfiguration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +46,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/samuelsholib/Desktop/practice/Multiple-Practice"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/samuelsholib/Desktop/practice/Multiple-Practice&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,5 +63,16 @@
       <updated>1656566876121</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
