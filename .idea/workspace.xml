@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34bfdc51-991c-440b-85e1-feed1286d16e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Biginner/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biginner/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJProjects/src/firstTimeWorkingWithIntellij/HelloIntellij.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntelliJProjects/src/firstTimeWorkingWithIntellij/HelloIntellij.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Modal Practice/modal-practice" beforeDir="false" afterPath="$PROJECT_DIR$/Modal Practice/modal-practice" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Modal Practice/modal-practice/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Modal Practice/modal-practice/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Modal Practice/modal-practice/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Modal Practice/modal-practice/package.json" afterDir="false" />
@@ -27,7 +25,6 @@
       <change beforePath="$PROJECT_DIR$/revaturePractice/my-practice-app/src/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/revaturePractice/my-practice-app/src/reportWebVitals.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/revaturePractice/my-practice-app/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/samdjava/springsecurityjpa/config/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/samdjava/springsecurityjpa/config/SecurityConfiguration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
